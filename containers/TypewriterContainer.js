@@ -15,11 +15,6 @@ const CONTENT = [
     link: 'https://github.com/aitemr'
   },
   {
-    icon: ['fab', 'stack-overflow'],
-    text: '6416852',
-    link: 'https://stackoverflow.com/users/6416852/islam-temirbek'
-  },
-  {
     icon: ['fab', 'linkedin'],
     text: 'aitemr',
     link: 'https://www.linkedin.com/in/aitemr/'
@@ -30,9 +25,9 @@ const CONTENT = [
     link: 'http://telegram.me/aitemr'
   },
   {
-    icon: ['fas', 'envelope'],
-    text: 'aitemr16@gmail.com',
-    link: 'mailto:aitemr16@gmail.com'
+    icon: ['fab', 'stack-overflow'],
+    text: '6416852',
+    link: 'https://stackoverflow.com/users/6416852'
   }
 ];
 
