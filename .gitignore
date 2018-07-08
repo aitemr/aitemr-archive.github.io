@@ -1,0 +1,16 @@
+# Build Output
+dist
+.next
+.vscode
+.DS_Store
+
+# Dependencies
+node_modules/
+package-lock.json
+config.json
+
+# Logs
+yarn-error.log*
+
+# Production
+out

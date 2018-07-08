@@ -1,0 +1,40 @@
+{
+  "name": "aitemr.github.io",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export",
+    "deploy": "bash ./deploy.sh"
+  },
+  "version": "1.0.0",
+  "description": "My personal Homepage",
+  "main": "index.js",
+  "author": "aitemr",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free-brands": "^5.0.13",
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/react-fontawesome": "^0.0.20",
+    "next": "^6.0.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-ga": "^2.5.3",
+    "react-markdown": "^3.3.2",
+    "react-sizeme": "^2.5.2",
+    "styled-components": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "babel-plugin-styled-components": "^1.5.1",
+    "eslint": "4.9.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-jsx-a11y": "6.0.2",
+    "eslint-plugin-react": "7.4.0",
+    "prettier-eslint": "^8.8.1"
+  }
+}
