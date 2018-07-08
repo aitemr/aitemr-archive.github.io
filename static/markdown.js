@@ -1,7 +1,7 @@
 const HOME_MARKDOWN = `
 ## About me
 
-Hi there! 👋 My name is **Islam Temirbek**.
+Hi there! 👋 My name is **Islam**.
 
 Experienced mobile developer with 2+ years of experience. I am very proactive, goal oriented, and have the ability to work independently and as a part of the collaborative team. Always look for better opportunities to grow and improve myself.
 
