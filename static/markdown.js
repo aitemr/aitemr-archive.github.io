@@ -13,6 +13,13 @@ Experienced mobile developer with 2+ years of experience. I am very proactive, g
 
 ### Mobile Developer at ZeroToOneLabs - 021labs.com
 
+- Contribute to iOS versions of our classifieds on Objective-C & Swift 
+- Kolesa.kz - is the most complete and daily updated base of announcements about cars in Kazakhstan
+- Krisha.kz - more than 200,000 current real estate ad in Kazakhstan.
+- Market.kz - is a free classified ads in Kazakhstan.
+- Avtoelon.uz - is the most complete and daily updated base of announcements about cars in Uzbekistan
+- Swift, Objective-C, SOLID, Object Oriented Programming, Functional Programming, Monorepo, CI/CD, Unit/UI Tests, UI/UX Design Git Flow, A/B Testing
+
 #### September 2016 - June 2018 (Almaty, Kazakhstan)
 
 - Built mobile application using React Native & Swift.
