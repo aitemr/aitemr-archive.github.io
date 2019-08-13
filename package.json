@@ -20,7 +20,7 @@
     "next": "^6.0.3",
     "prop-types": "^15.6.1",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react-dom": "^16.4.2",
     "react-ga": "^2.5.3",
     "react-markdown": "^3.3.2",
     "react-sizeme": "^2.5.2",
