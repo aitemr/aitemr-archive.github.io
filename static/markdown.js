@@ -3,22 +3,25 @@ const HOME_MARKDOWN = `
 
 Hi there! 👋 My name is **Islam**.
 
-Experienced mobile developer with 2+ years of experience. I am very proactive, goal oriented, and have the ability to work independently and as a part of the collaborative team. Always look for better opportunities to grow and improve myself.
+Experienced mobile developer with 3 years of experience. I am very proactive, goal oriented, and have the ability to work independently and as a part of the collaborative team. Always look for better opportunities to grow and improve myself.
 
 ## Experience
 
-#### June 2018 (Almaty, Kazakhstan)
+#### June 2019 (Moscow, Russia)
+
+### iOS Developer at Sberbank - sberbank.ru
+
+#### June 2018 -  June 2019 (Almaty, Kazakhstan)
 
 ### iOS Developer at Kolesa Group - job.kolesa.kz
 
 - Contributing to iOS versions of classifieds projects on Objective-C & Swift.
-- [kolesa.kz](https://kolesa.kz) - website of car ads #1 in Kazakhstan.
-- [krisha.kz](https://krisha.kz) - website of real estate ads #1 in Kazakhstan.
-- [market.kz](https://market.kz) - is a free classified in Kazakhstan.
-- [avtoelon.uz](https://avtoelon.uz) - is the most complete and daily updated base of announcements about cars in Uzbekistan.
-- Prepared lectures & study materials to the [Kolesa Academy] interns
+- Run multiple A/B tests for checking the hypothesis
+- Improved single authentication module & increased user authentication flow experience
+- Improved Analytics module for sending events to Firebase & Yandex App Metrica analytics storages 
+- Prepared lectures & study materials to the Kolesa Academy interns
 - Swift, Objective-C, Memory Management, Multithreading, Architectural Patterns, Module Architecture, Backend Driven UI,
-OOP, FP, SOLID, Design Patterns, Monorepo, CI/CD, Unit/UI Tests, UI/UX Design, Git Flow, A/B Testing.
+OOP, SOLID, Design Patterns, FP, Monorepo, CI/CD, Fastlane, Unit/UI Tests, UI/UX Design, Git Flow, A/B Testing
 
 #### September 2016 - June 2018 (Almaty, Kazakhstan)
 
