@@ -20,7 +20,7 @@
     "next": "^6.0.3",
     "prop-types": "^15.6.1",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react-dom": "^16.4.2",
     "react-ga": "^2.5.3",
     "react-markdown": "^3.3.2",
     "react-sizeme": "^2.5.2",
@@ -29,7 +29,7 @@
   "devDependencies": {
     "babel-eslint": "^8.2.3",
     "babel-plugin-styled-components": "^1.5.1",
-    "eslint": "4.9.0",
+    "eslint": "4.18.2",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-import": "2.7.0",
