@@ -16,6 +16,11 @@ Experienced mobile developer with 3 years of experience. I am very proactive, go
 ### iOS Developer at Kolesa Group - job.kolesa.kz
 
 - Contributing to iOS versions of classifieds projects on Objective-C & Swift.
+    Projects:
+    1. [kolesa.kz](https://apps.apple.com/ru/app/kolesa-kz-авто-объявления/id563291345), 
+    2. [krisha.kz](https://apps.apple.com/ru/app/krisha-kz-вся-недвижимость/id965180355)
+    3. [market.kz](https://apps.apple.com/ru/app/market-kz-объявления/id1062202662) 
+    4. [avtoelon.uz](https://apps.apple.com/ru/app/avtoelon-uz-авто-объявления/id1431768824
 - Run multiple A/B tests for checking the hypothesis
 - Improved single authentication module & increased user authentication flow experience
 - Improved Analytics module for sending events to Firebase & Yandex App Metrica analytics storages 
@@ -28,8 +33,8 @@ OOP, SOLID, Design Patterns, FP, Monorepo, CI/CD, Fastlane, Unit/UI Tests, UI/UX
 ### Mobile Developer at ZeroToOneLabs - 021labs.com
 
 - Built mobile application using React Native & Swift.
-- Developed mobile application [nommi.net], 4G Hotspot with Unlimited Wi-Fi Worldwide. “Innovative Product 2019” on indiegogo.com.
-- Developed [Pifagor Intranet](https://itunes.apple.com/kz/app/пифагор-интранет/id1294186849) mobile application, for educational center pifagor.kz.
+- Developed mobile application [nommi.net](https://apps.apple.com/ru/app/nommi/id1428584000), 4G Hotspot with Unlimited Wi-Fi Worldwide. “Innovative Product 2019” on [indiegogo.com](https://www.indiegogo.com/projects/nommi-4g-hotspot-with-unlimited-wi-fi-worldwide).
+- Developed [Pifagor Intranet](https://itunes.apple.com/kz/app/пифагор-интранет/id1294186849) mobile application, for educational center [pifagor.kz](https://pifagor.kz).
 - Worked on development of [Qamqor](https://itunes.apple.com/us/app/qamqor-защита-бизнеса/id1211730451?mt=8) mobile application, that helps business owners to protect their
 businesses from illegal inspections. Collaboration with Government.
 - Javascript, Typescript, React Native, Redux, Mobx, Firebase, Parse Server, CI/CD, Unit/UI Tests, UI/UX Design
