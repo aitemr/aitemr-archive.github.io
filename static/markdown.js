@@ -7,9 +7,15 @@ Experienced mobile developer with 3 years of experience. I am very proactive, go
 
 ## Experience
 
-#### June 2019 (Moscow, Russia)
+#### June 2019 - Present (Moscow, Russia)
 
 ### iOS Developer at Sberbank - sberbank.ru
+
+- Working at one of the biggest [bank](https://apps.apple.com/ru/app/сбербанк-онлайн/id492224193) in Russia (53M mobile application users)
+- Working one of the biggest mobile dev team in the world (350 Mobile Engineers - 190 iOS, 160 Android)
+- Responsible for Payments & Transerfrs module
+- Swift, Objective-C, Memory Management, Multithreading, Architectural Patterns, Module Architecture, Backend Driven UI,
+OOP, SOLID, Design Patterns, FP, Monorepo, CI/CD, Fastlane, Unit/UI Tests, UI/UX Design, Git Flow, A/B Testing, Carthage, Jenkis, Sonarqube
 
 #### June 2018 -  June 2019 (Almaty, Kazakhstan)
 
@@ -17,10 +23,10 @@ Experienced mobile developer with 3 years of experience. I am very proactive, go
 
 - Contributing to iOS versions of classifieds projects on Objective-C & Swift.
     Projects:
-    1. [kolesa.kz](https://apps.apple.com/ru/app/kolesa-kz-авто-объявления/id563291345), 
-    2. [krisha.kz](https://apps.apple.com/ru/app/krisha-kz-вся-недвижимость/id965180355)
-    3. [market.kz](https://apps.apple.com/ru/app/market-kz-объявления/id1062202662) 
-    4. [avtoelon.uz](https://apps.apple.com/ru/app/avtoelon-uz-авто-объявления/id1431768824
+    * [kolesa.kz](https://apps.apple.com/ru/app/kolesa-kz-авто-объявления/id563291345) - car ads #1 in Kazakhstan.
+    * [krisha.kz](https://apps.apple.com/ru/app/krisha-kz-вся-недвижимость/id965180355) - real estate ads #1 in Kazakhstan.
+    * [market.kz](https://apps.apple.com/ru/app/market-kz-объявления/id1062202662) - is a free classified in Kazakhstan.
+    * [avtoelon.uz](https://apps.apple.com/ru/app/avtoelon-uz-авто-объявления/id1431768824) - is the most complete and daily updated base of announcements about cars in Uzbekistan.
 - Run multiple A/B tests for checking the hypothesis
 - Improved single authentication module & increased user authentication flow experience
 - Improved Analytics module for sending events to Firebase & Yandex App Metrica analytics storages 
