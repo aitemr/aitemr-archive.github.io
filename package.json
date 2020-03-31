@@ -17,7 +17,7 @@
     "@fortawesome/fontawesome-free-brands": "^5.0.13",
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
     "@fortawesome/react-fontawesome": "^0.0.20",
-    "next": "^6.0.3",
+    "next": "^9.3.2",
     "prop-types": "^15.6.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.2",
