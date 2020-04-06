@@ -3,7 +3,7 @@ const HOME_MARKDOWN = `
 
 Hi there! 👋 My name is **Islam**.
 
-Experienced mobile developer with 3 years of experience. I am very proactive, goal oriented, and have the ability to work independently and as a part of the collaborative team. Always look for better opportunities to grow and improve myself.
+Experienced mobile developer with 3+ years of experience. I am very proactive, goal oriented, and have the ability to work independently and as a part of the collaborative team. Always look for better opportunities to grow and improve myself.
 
 ## Experience
 
@@ -11,9 +11,9 @@ Experienced mobile developer with 3 years of experience. I am very proactive, go
 
 ### iOS Developer at Sberbank - sberbank.ru
 
-- Working at one of the biggest [bank](https://apps.apple.com/ru/app/сбербанк-онлайн/id492224193) in Russia (53M mobile application users)
-- Working one of the biggest mobile dev team in the world (350 Mobile Engineers - 190 iOS, 160 Android)
-- Responsible for Payments & Transerfrs module
+- Working at one of the biggest [bank](https://apps.apple.com/ru/app/сбербанк-онлайн/id492224193) in Russia (56M mobile application users)
+- Working one of the biggest mobile dev team in the world (350 Mobile Engineers - 200 iOS, 180 Android)
+- Responsible for Payments & Transfers module
 - Swift, Objective-C, Memory Management, Multithreading, Architectural Patterns, Module Architecture, Backend Driven UI,
 OOP, SOLID, Design Patterns, FP, Monorepo, CI/CD, Fastlane, Unit/UI Tests, UI/UX Design, Git Flow, A/B Testing, Carthage, Jenkis, Sonarqube
 
